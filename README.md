@@ -25,8 +25,8 @@ QR code component made with HTML and CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/nunu114/QR-code-component-solution.git](https://github.com/nunu114/QR-code-component-solution.git)
+- Live Site URL: [qr-code-component-nunu114.netlify.app](qr-code-component-nunu114.netlify.app)
 
 ## My process
 
